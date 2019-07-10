@@ -1,5 +1,7 @@
 # Udacity Nanodegrees
 
+I am here.
+
 [Udacity](https://www.udacity.com/) offers some great content in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
 the money, and/or just don't want to pay for them, you can take many of the
